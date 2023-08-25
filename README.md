@@ -1289,4 +1289,3 @@ ___
     
 ___
     
-<h3 align=center>This project licensed under the <a href='./LICENSE'>Apache-2.0 license</a>.</h3>
