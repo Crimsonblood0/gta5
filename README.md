@@ -1,4 +1,4 @@
-<h3 align=center><b><sup>🚫Unfortunately TnyavnTos GTA 5 Mod Menu and TnyavnTos Module Injector will no longer be updated or managed🚫</sup></b></h3>
+<h3 align=center><b><sup>🚫 Zolika1351's GTA 5 Mod Menu 🚫</sup></b></h3>
 
 <br>
 
